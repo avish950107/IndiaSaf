@@ -9,4 +9,10 @@ public class SafLogin {
 	{
 		System.out.println("login page");
 	}
+	
+	@Test
+	public void IndianGuy()
+	{
+		System.out.println("Adding code by Indian Guy");
+	}
 }
