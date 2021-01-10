@@ -9,4 +9,9 @@ public class SafLogin {
 	{
 		System.out.println("login page");
 	}
+	@Test
+	public void Addingmethod()
+	{
+		System.out.println("modify scripts by us team");
+	}
 }
